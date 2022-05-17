@@ -1,5 +1,5 @@
 # Welcome to my GitHub Profile. 
-Hi, my name is Fred Watzke. I study software engineering and here you will find most of the projects I have been working on while learning new stuff.
+Hi, my name is Fred Vasquez. I study software engineering and here you will find most of the projects I have been working on while learning new stuff.
 
 - ♻ Interested about technology, nature, minimalism, geometry. 
 - Love sound design 🔊 as much I love coding 💻.
