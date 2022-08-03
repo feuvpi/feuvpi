@@ -24,7 +24,7 @@
 <p> - 👨‍🎓 Currently studying System Analysis and Development </p>
 <p> - 👨‍🎓 Specialized in Software Engineering and Project Management </p>
 <p> - 🎯 Interests: Data Engineering, Machine Learning, Backend Development, Algorithms</p>
-<p> - :deciduous_tree: Passionate about nature and technology. We need to use techn to protect our planet! </p>
+<p> - :deciduous_tree: Passionate about nature and technology. We need to use tech to protect our planet! </p>
 <p> - 🎮 Do you like to play CS:GO? Message me and let's win some matches together! </p>
 <p> - :musical_note: Psytrance SoundDesigner </p>
   
