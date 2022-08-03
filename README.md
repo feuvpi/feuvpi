@@ -15,18 +15,18 @@
   </a>
 </p>
 
-## Olá, me chamo Fred! </h2>
+## Hi, Fred in here... </h2>
 
-### Quem eu sou
+### Who am I
 <div style="display: inline_block"  >
 <img align="right" width="250" height="250" style="border-radius:30px;" src="naruto.gif?raw=true" />
-<p> - 👨‍💻 Software Developer e Engenheiro de Dados </p>
-<p> - 👨‍🎓 Formado em Engenharia Civil </p>
-<p> - 👨‍🎓 Especializado em Engenharia de Software e Gestão de Projetos </p>
-<p> - 🎯 Interesses: Engenharia de Dados, Redes Neurais, Desenvolvimento de Backend, Estrutura de Dados, Algoritimos, Bancos de Dados, APIs. </p>
-<p> - :deciduous_tree: Apaixonado por natureza e técnologia. Precisamos usar a técnologia a favor da proteção do nosso planeta! </p>
-<p> - 🎮 Gosta de jogar CS:GO? É só chamar, vamos ganhar umas partidas juntos! </p>
-<p> - :musical_note: Sound Designer. Produtor de ProgDark and Forest. </p>
+<p> - 👨‍💻 Software Engineer && Data Engineer </p>
+<p> - 👨‍🎓 Currently studying System Analysis and Development </p>
+<p> - 👨‍🎓 Specialized in Software Engineering and Project Management </p>
+<p> - 🎯 Interests: Data Engineering, Machine Learning, Backend Development, Algorithms</p>
+<p> - :deciduous_tree: Passionate about nature and technology. We need to use techn to protect our planet! </p>
+<p> - 🎮 Do you like to play CS:GO? Message me and let's win some matches together! </p>
+<p> - :musical_note: Psytrance SoundDesigner </p>
   
 </div>
 
@@ -53,7 +53,7 @@
    
 </div>
 
-## Contatos :iphone:
+## Contacts :iphone:
 
 <p align="center">
     <a href="https://github.com/feuvpi">
@@ -71,7 +71,7 @@
 
 <p align="center"> 
 
- ## Total de visitas no meu perfil :detective: <br>
+ ## Profile visits :detective: <br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/feuvp/count.svg" />
  </p>
