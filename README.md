@@ -20,7 +20,7 @@
 ### Who am I
 <div style="display: inline_block"  >
 <img align="right" width="250" height="250" style="border-radius:30px;" src="naruto.gif?raw=true" />
-<p> - 👨‍💻 Civil Engineer who just happens to like algorithms. </p>
+<p> - 👨‍💻 Software Dev with background in Civil Engineer. </p>
 <p> - 👨‍🎓 Currently studying System Analysis and Development </p>
 <p> - 👨‍🎓 Specialized in Software Engineering and Project Management </p>
 <p> - 🎯 Interests: Data Engineering, Machine Learning, Backend Development, Algorithms</p>
