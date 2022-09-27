@@ -20,12 +20,11 @@
 ### Who am I
 <div style="display: inline_block"  >
 <img align="right" width="250" height="250" style="border-radius:30px;" src="naruto.gif?raw=true" />
-<p> - 👨‍💻 Software Dev with background in Civil Engineering. </p>
+<p> - 👨‍💻 Software Dev and CivE. </p>
 <p> - 👨‍🎓 Currently studying System Analysis and Development </p>
-<p> - 👨‍🎓 Specialized in Software Engineering and Project Management </p>
-<p> - 🎯 Interests: Data Engineering, Machine Learning, Backend Development, Algorithms</p>
+<p> - 🎯 Interests: Software development, Engineering, Cloud Computing</p>
 <p> - :deciduous_tree: Passionate about nature and technology. We need to use tech to protect our planet! </p>
-<p> - 🎮 Do you like to play CS:GO? Message me and let's win some matches together! </p>
+<p> - 🎮 Chess and CS:GO player! </p>
 <p> - :musical_note: Psytrance SoundDesigner </p>
   
 </div>
