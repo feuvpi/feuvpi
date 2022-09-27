@@ -25,7 +25,7 @@
 <p> - 🎯 Interests: Software development, Engineering, Cloud Computing</p>
 <p> - :deciduous_tree: Passionate about nature and technology. We need to use tech to protect our planet! </p>
 <p> - 🎮 Chess and CS:GO player! </p>
-<p> - :musical_note: Psytrance SoundDesigner </p>
+<p> - :musical_note: Psychedelic Music Producer </p>
   
 </div>
 
