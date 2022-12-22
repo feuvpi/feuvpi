@@ -20,24 +20,23 @@
 ### Who am I
 <div style="display: inline_block"  >
 <img align="right" width="250" height="250" style="border-radius:30px;" src="naruto.gif?raw=true" />
-<p> - 👨‍💻 Software Dev and CivE. </p>
-<p> - 👨‍🎓 Currently studying System Analysis and Development </p>
-<p> - 🎯 Interests: Software development, Engineering, Cloud Computing</p>
+<p> - 👨‍💻 Currently working with .NET applications. </p>
+<p> - 👨‍💻 System analyst and developer and Software Engineering specialist. </p>
+<p> - 👨‍🎓 Fun-fact: My first degree is Civil Engineering. </p>
+<p> - 🎯 Interests: Building apps, making digital music, walking in nature </p>
 <p> - :deciduous_tree: Passionate about nature and technology. We need to use tech to protect our planet! </p>
 <p> - 🎮 Chess and CS:GO player! </p>
 <p> - :musical_note: Psychedelic Music Producer </p>
   
 </div>
 
-## Skills :nerd_face:
+## Languages and tools :nerd_face:
 <div align="center">
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
