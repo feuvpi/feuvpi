@@ -72,11 +72,3 @@ I created these images, feel free to use them.
     </a>
 </p>
 
-<p align="center"> 
-
- ## Profile visits :detective: <br>
- <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/feuvp/count.svg" />
- </p>
-
-</p>
