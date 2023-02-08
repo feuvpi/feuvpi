@@ -5,7 +5,7 @@
 
 <h3><samp><strong>Fred Vasquez</strong> 👾 </samp></h3>
 
-<p> <samp>Civil Engineer and System Analysis and Development student <br> Software Engineering Specialist <br> Project Management Specialist </samp></p>
+<p> <samp> Software Engineering Specialist <br> Project Management Specialist </samp></p>
 
   <br>
   
