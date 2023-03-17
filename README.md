@@ -1,4 +1,6 @@
-
+<head>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+</head>
 
 
 <div align='center'>
@@ -8,19 +10,7 @@
 <p> <samp> Software Engineering Specialist <br> Project Management Specialist </samp></p>
 
   <br>
-  
-[![](img/twitter.png)](https://twitter.com/AntonioFalcaoJr/#gh-light-mode-only)
-[![](img/linkedin.png)](https://br.linkedin.com/#gh-light-mode-only)
-[![](img/medium.png)](https://antoniofalcaojr.medium.com/#gh-light-mode-only)
-[![](img/dev.png)](https://dev.to/antoniofalcao/#gh-light-mode-only)
-[![](img/web.png)](https://antoniofalcaojr.github.io/#gh-light-mode-only)
-[![](img/mail.png)](mailto:arfj@edu.univali.br/#gh-light-mode-only)
-[![](img/twitter-light.png)](https://twitter.com/AntonioFalcaoJr/#gh-dark-mode-only)
-[![](img/linkedin-light.png)](https://br.linkedin.com/#gh-dark-mode-only)
-[![](img/medium-light.png)](https://antoniofalcaojr.medium.com/#gh-dark-mode-only)
-[![](img/dev-light.png)](https://dev.to/antoniofalcao/#gh-dark-mode-only)
-[![](img/web-light.png)](https://antoniofalcaojr.github.io/#gh-dark-mode-only)
-[![](img/mail-light.png)](mailto:arfj@edu.univali.br/#gh-dark-mode-only)
+
 
 </div>
 <div align="center">
@@ -29,10 +19,6 @@
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" >
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
