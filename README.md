@@ -7,7 +7,7 @@
 
 <h3><samp><strong>Fred Pinheiro</strong> 👾 </samp></h3>
 
-<p> <samp> Software Engineering Specialist <br> Project Management Specialist </samp></p>
+<p> <samp> Problem Solver </samp></p>
 
   <br>
 
