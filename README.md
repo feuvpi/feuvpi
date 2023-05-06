@@ -7,7 +7,7 @@
 
 <h3><samp><strong>Fred Pinheiro</strong> 👾 </samp></h3>
 
-<p> <samp> Problem Solver </samp></p>
+<p> <samp> Software Engineer | Problem Solver </samp></p>
 
   <br>
 
