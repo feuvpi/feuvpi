@@ -32,7 +32,7 @@
 
 I'am a Civil Engineer who also specializes in building high-quality software systems. I am a tech and nature enthusiast 🌲. I also like to mess around with drones and producing eletronic music is one of my passions.
 
-- 💬 Ask me about **Rust, Python, C#, APIs, Vector Databases, Embbendings or whatever.**
+- 💬 Ask me about **Blockchain, Backend, Programming Logic, Vector Databases, Embbendings or whatever you feel to.**
 
 - 📫 How to reach me **fdgom22@gmail.com**
 
