@@ -7,36 +7,8 @@
 
 <h3><samp><strong>Fred Pinheiro</strong> 👾 </samp></h3>
 
-<p> <samp> Software Engineer | Problem Solver </samp></p>
-
-  <br>
-
-
+<p> <samp>Hey there! This is my cozy little corner of the internet where I store and tinker with all sorts of cool projects and whatnot. Here you'll find a mishmash of wacky experiments, creative hacks, and innovative solutions. I'm always on the lookout for new and exciting projects to work on. </samp></p>
 </div>
-<div align="center">
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" >
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
- 
-</div>
-
-## About me 🕵️
-
-I'am a Civil Engineer who also specializes in building high-quality software systems. I am a tech and nature enthusiast 🌲. I also like to mess around with drones and producing eletronic music is one of my passions.
-
-- 💬 Ask me about **Blockchain, Backend, Programming Logic, Vector Databases, Embbendings or whatever you feel to.**
-
-- 📫 How to reach me **fdgom22@gmail.com**
-
-- 📖 Open to collaborate in new and interesting projects. 
 
 ## Contacts :iphone:
 
