@@ -5,7 +5,7 @@
 
 <div align='center'>
 
-<h3><samp><strong>Fred Pinheiro</strong> 👾 </samp></h3>
+<h3><samp><strong>Fred Pinheiro</strong> 🇧🇷 </samp></h3>
 
 <p> <samp>Hey there! This is my cozy little corner of the internet where I store and tinker with all sorts of cool projects and whatnot. Here you'll find a mishmash of wacky experiments, creative hacks, and innovative solutions. I'm always on the lookout for new and exciting projects to work on. </samp></p>
 </div>
