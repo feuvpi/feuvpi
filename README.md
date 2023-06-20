@@ -7,7 +7,7 @@
 
 <h3><samp><strong>Fred Pinheiro</strong> 🇧🇷 </samp></h3>
 
-<p> <samp>Hi! This is my cozy little corner where I store and tinker with all sorts of cool projects and whatnot. Wacky experiments, creative hacks and innovative tech solutions. I'm always on the lookout for new and exciting projects to work on. </samp></p>
+<p> <samp>Hi! This is my cozy little corner where I store and tinker with all sorts of cool projects and whatnot. Wacky experiments, creative hacks and innovative tech solutions. </samp></p>
 </div>
 
 ## Contacts :iphone:
