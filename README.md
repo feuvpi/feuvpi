@@ -23,13 +23,14 @@
     </a>
 </p>
 
+<!--
 ## Support me
-<!-- Your support, if you have it 
+ Your support, if you have it 
 I created these images, feel free to use them.
--->
 <p align="center">
   <a href="https://www.buymeacoffee.com/fredvpgi" target="_blank">
       <img width="15%" alt="Buy me a coffee" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-buy-coffee.png"/>
   </a>
 </p>
+-->
 
